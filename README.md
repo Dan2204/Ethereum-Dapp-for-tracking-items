@@ -12,7 +12,8 @@ Tools used:
 -------------------------
 
 npm run dev launches lite-server v2.4.0  
-Rinkeby contract address => https://rinkeby.etherscan.io/address/0xa693bfef13e21d19a2e69addefb7f157f285edc4 \n
+Rinkeby contract address => https://rinkeby.etherscan.io/address/0xa693bfef13e21d19a2e69addefb7f157f285edc4 
+
 Creation Transaction Hash => https://rinkeby.etherscan.io/tx/0x830ae7ad5bcee308120cb4d886e266eb4e2e0f8bef9f7226f874e5ce96687e29
 
 --------------------------
