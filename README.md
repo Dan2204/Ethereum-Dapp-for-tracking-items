@@ -4,9 +4,10 @@ Assignment for Section 3 - Ethereum Dapp for tracking items.
 Tools used:
 -----------
 
-  Node.js => 10.13.0
-  Truffle => 4.1.14
-  web3 cdn => 0.20.6
+  Node.js => 10.13.0,
+  Truffle => 4.1.14,
+  Solidity => 0.4.24,
+  web3 cdn => 0.20.6,
   
 -------------------------
 
