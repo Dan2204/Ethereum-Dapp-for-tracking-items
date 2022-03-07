@@ -34,4 +34,5 @@ There would also need to be a definitive way for Actors to be added. Maybe by th
 As it stands, only the contract owner can utilise the methods. Although, I added the originalFarmerID passed in the harvestItem method so that address 
   would be able to use the remainder of the Farmer methods.
 
-============================
+--------------------------
+--------------------------
